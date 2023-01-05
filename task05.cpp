@@ -2,7 +2,6 @@
 using namespace std;
 main(){
 int weight_loss;
-int days_need;
 int time_daily;
 cout << "Enter weight that you want to loose: ";
 cin >> weight_loss;
